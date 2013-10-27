@@ -3,5 +3,6 @@
 	filemode = true
 	bare = true
 	ignorecase = true
+	precomposeunicode = false
 [remote "origin"]
 	url = git://github.com/meeech/listen.git
