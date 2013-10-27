@@ -9,7 +9,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     json (1.7.5)
-    rb-fsevent (0.9.1)
+    rb-fsevent (0.9.3)
 
 PLATFORMS
   ruby
