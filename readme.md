@@ -1,6 +1,8 @@
 Theme Tool
 ==========
 
+[![Join the chat at https://gitter.im/meeech/Shopify-Theme-Tool](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meeech/Shopify-Theme-Tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 TT lets you add your shop, download your themes. TT will upload any changes and upload it to your shop.
 
 Building
